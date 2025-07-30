@@ -87,7 +87,7 @@ class LRRSimDataset(Dataset):
 
 if __name__ == '__main__':
 
-    DATA_PATH = "/gmiha/data001/RnD/SSV/Users/YuvalH/RadarRawProject/LRRSimDataset_ICCV2025"
+    DATA_PATH = ""
     SPLIT = 'train'
 
     dset = LRRSimDataset(data_path=DATA_PATH, split=SPLIT)
