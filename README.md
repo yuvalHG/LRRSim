@@ -1,4 +1,10 @@
+<p align="center">
+  <img src="LRRSimLogo.png" width="400" style="border-radius:20px;">
+</p>
+
 # LRR-Sim: Long-Range Radar Simulation Dataset
+
+
 
 **LRR-Sim** is the first publicly available long-range radar dataset with annotated 3D point clouds extending **up to 300 meters**,
 filling a critical gap in radar research for highway and high-speed scenarios.
