@@ -28,7 +28,7 @@ Scenes were created using the [CARLA simulator](https://carla.org/) for realisti
 
 You can download the dataset using the links below:
 
-- 📥 [Download Radar Data](https://drive.google.com/file/d/1GfleL16_BphZgkUhrAINRygR93EriuBH/view?usp=drive_link) (105 MB)
+- 📥 [Download Radar Data](https://drive.google.com/file/d/1GfleL16_BphZgkUhrAINRygR93EriuBH/view?usp=sharing) (105 MB)
 - 📥 [Download Image Data](https://drive.google.com/file/d/1IN3FxWx6Mt109fMKnwGZsGtCJ4gTwRiQ/view?usp=sharing) (13.5 GB)
 
 
